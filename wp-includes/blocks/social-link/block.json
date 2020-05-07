@@ -1,1 +1,16 @@
-ewoJIm5hbWUiOiAiY29yZS9zb2NpYWwtbGluayIsCgkiY2F0ZWdvcnkiOiAid2lkZ2V0cyIsCgkiaWNvbiI6ICJzaGFyZSIsCgkiYXR0cmlidXRlcyI6IHsKCQkidXJsIjogewoJCQkidHlwZSI6ICJzdHJpbmciCgkJfSwKCQkic2VydmljZSI6IHsKCQkJInR5cGUiOiAic3RyaW5nIgoJCX0sCgkJImxhYmVsIjogewoJCQkidHlwZSI6ICJzdHJpbmciCgkJfQoJfQp9Cg==
+{
+	"name": "core/social-link",
+	"category": "widgets",
+	"icon": "share",
+	"attributes": {
+		"url": {
+			"type": "string"
+		},
+		"service": {
+			"type": "string"
+		},
+		"label": {
+			"type": "string"
+		}
+	}
+}

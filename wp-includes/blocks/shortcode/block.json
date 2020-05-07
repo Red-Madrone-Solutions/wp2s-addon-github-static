@@ -1,1 +1,10 @@
-ewoJIm5hbWUiOiAiY29yZS9zaG9ydGNvZGUiLAoJImNhdGVnb3J5IjogIndpZGdldHMiLAoJImF0dHJpYnV0ZXMiOiB7CgkJInRleHQiOiB7CgkJCSJ0eXBlIjogInN0cmluZyIsCgkJCSJzb3VyY2UiOiAiaHRtbCIKCQl9Cgl9Cn0K
+{
+	"name": "core/shortcode",
+	"category": "widgets",
+	"attributes": {
+		"text": {
+			"type": "string",
+			"source": "html"
+		}
+	}
+}
